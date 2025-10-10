@@ -53,6 +53,7 @@ Ben kodu kendim yazdım ve toplamda **80-90 satır** bir `.py` dosyası oldu. Ku
 
 ```python
 matplotlib
-opencv (cv2)
-numpy / scipy
+opencv
+numpy
+scipy
 math
