@@ -39,7 +39,7 @@ Ben kodu kendim yazdım ve toplamda **80-90 satır** bir `.py` dosyası oldu. Ku
 
 * **YoloV4-Tiny Modelini indirmek için (.weights/.cfg/.names):
 1. https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4-tiny.weights  
-2 https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov4-tiny.cfg
+2. https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov4-tiny.cfg
 3. https://raw.githubusercontent.com/AlexeyAB/darknet/master/data/coco.names
 
 ### Yardımcı Olabilecek Kaynaklar
